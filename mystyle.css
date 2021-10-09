@@ -1,0 +1,57 @@
+/* comments to make css easier to read */
+
+header {
+    color: red;
+    background-color: royalblue;
+    font-size: 2vh;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 23px;
+    margin-right: 340px;
+
+}
+
+h1 {
+    color:rgb(177, 89, 29);
+    background-color: #AEE;
+    font-size: 5vw;
+    margin:25px 40px 67px 100px; 
+}
+
+h2 {
+    color: #AAA;
+    background-color: rgb(197,93,161);
+}
+
+h3{
+    color: hsl(0,50%,50%);
+}
+
+img{
+    border-radius:18px;
+    padding: 2mm 5mm 2mm 1mm;
+    width: 3in;
+    border-color: salmon;
+    border-width: 1cm;
+    border-style:groove;
+}
+
+p{
+    font-size: 2rem;
+    margin:auto;
+}
+
+video{
+    padding-left: 300px;
+    padding-right:110px;
+    padding-top:12px;
+    padding-bottom: 44px;
+}
+
+*{
+    color: red;
+    text-decoration: underline;
+    text-align:left;
+}
+
+
